@@ -3,8 +3,8 @@
 :root {
   --font-family: 'Inter', sans-serif;
 
-  --gradient-text: linear-gradient(89.97deg, #17fff2 1.84%, #5e5dff 102.67%);
-  --gradient-bar: linear-gradient(103.22deg, #17fff2 -13.86%, #5e5dff 99.55%);
+  --gradient-text: linear-gradient(89deg, rgba(96,255,245,1) 0%, rgba(209,255,252,1) 23%);
+  --gradient-bar: linear-gradient(89deg, rgba(96,255,245,1) 0%, rgba(209,255,252,1) 23%);
   
   --color-bg: #040C18;
   --color-footer : #031B34;
