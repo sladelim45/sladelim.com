@@ -10,9 +10,10 @@ function App() {
       <div className='gradient__bg'>
         <NavBar />
         <Header />
+        <Portfolio />
       </div>
       <Introduction />
-      <Portfolio />
+      
       <Footer />
     </div>
   );

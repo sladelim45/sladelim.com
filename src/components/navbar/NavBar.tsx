@@ -5,8 +5,6 @@ import logo from '../../assets/logo.png'
 
 const Menu = () => (
   <>
-  <p><a href='#aboutme'>About Me</a></p>
-  <p><a href='#resume'>Resume</a></p>
   <p><a href='#Portfolio'>Portfolio</a></p>
   </>
 )
